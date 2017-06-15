@@ -10,4 +10,4 @@ It can run N simultaneous recognition sessions.
 
 Check out the [Read Me](https://github.com/watson-developer-cloud/speech-to-text-websockets-python) in the original repo for documentation.
 
-If you are looking for an example of a websocket connection for Python 3 that you can run as a function call from within a script or in an IDE like Jupyter Notebook, try this: https://gist.github.com/kstohr/a1dee0e88e8587576e03804194c7f7df
+If you are looking for an example of a websocket connection for Python 3 that you can run as a function call from within a script or in an IDE like Jupyter Notebook, try this: [Watson Speech-to-Text Websocket Connection (function call)] (https://gist.github.com/kstohr/a1dee0e88e8587576e03804194c7f7df).
