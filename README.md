@@ -1,5 +1,5 @@
 
-peech-to-text-websockets-python updated to python 3.0 
+speech-to-text-websockets-python updated to python 3 
 
 Adapted from https://github.com/watson-developer-cloud/speech-to-text-websockets-python 
 
