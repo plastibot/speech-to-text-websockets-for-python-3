@@ -343,7 +343,7 @@ if __name__ == '__main__':
                 args.credentials[0], args.credentials[1]))
     else:
         string = args.credentials[0] + ":" + args.credentials[1]
-        headers["Authorization"] = "Basic " + base64.b64encode(string)
+        headers["Authorization"] = "Basic " + base64.b64encode(string.encode()).decode()
 
     print (headers)
     # create a WS server factory with our protocol
